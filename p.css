@@ -1,0 +1,38 @@
+
+body{ 
+    width:100%;
+    height:1000px;
+    background-color:rgb(5, 5, 5);
+    padding-top:20px;
+    }
+    
+    header { 
+    width:88%;
+    height:330px;
+     background-color:black;
+     margin: auto; 
+    } 
+    
+    main{
+    width:85%;
+     height:2900px;
+     background-color:black;
+     margin: auto;
+    padding: 20px;
+     }
+    
+    
+    main section{   
+
+        height:300px;
+         background-color:rgba(7, 85, 158, 0.459);
+         margin-top: 10px;
+         margin-bottom: 10px; 
+    } 
+    footer{ 
+        width:88%;
+        height:400px;
+         background-color:black;
+         margin: auto;
+        } 
+
